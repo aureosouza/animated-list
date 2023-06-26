@@ -65,7 +65,7 @@ const App = () => {
   return (
     <View style={styles.container}>
       <View style={styles.containerBehind}>
-        <Text>{'Componets behind list'}</Text>
+        <Text>{'Components behind list'}</Text>
       </View>
       <Animated.FlatList
         bounces={false}
